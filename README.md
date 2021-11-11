@@ -1,5 +1,5 @@
 # Basic Calculator :orange:
- It´s was a team challenge for educational purposes built with:
+ It was a team challenge for educational purposes built with:
  
 - React Native :atom:
 - Typescript
