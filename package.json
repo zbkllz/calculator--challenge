@@ -1,5 +1,5 @@
 {
-  "name": "demonhocalc",
+  "name": "bananacalc",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -10,11 +10,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@types/react-dom": "^17.0.11",
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-iphone-x-helper": "^1.3.1",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
